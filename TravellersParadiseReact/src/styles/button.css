@@ -1,0 +1,62 @@
+button {
+  font-family: var(--font-label);
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background 0.15s ease;
+  border: 1px solid transparent;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem; 
+}
+
+/* Primary Dispatch */
+button.basic {
+  background: var(--color-secondary);
+  border: 1px solid rgba(29, 53, 87, 0.2);
+   font-family: var(--font-label);
+   color: var(--color-font-dark-gray);
+}
+button.basic.selected {
+  background: var(--color-primary-container);
+  color: var(--color-font-selected-white);
+}
+
+/* Secondary / Emergency */
+button.secondary {
+  background: var(--color-secondary);
+  color: #fff;
+  font-family: var(--font-label);
+}
+button.secondary:hover {
+  background: var(--color-secondary-container);
+  font-family: var(--font-label);
+}
+button.inverted {
+  background: var(--color-inverted);
+  color: var(--color-font-selected-white);
+  font-family: var(--font-label);
+}
+
+/* Folio Outline */
+button.outlined {
+  background: transparent;
+  border: 1px solid var(--color-inverted);
+  color: var(--color-inverted);
+}
+button.outlined:hover {
+  background: var(--color-surface-high);
+}
+
+/* Telemetry Action */
+button.telemetry {
+  font-family: var(--font-label);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.375rem 0.75rem;
+}
+
+.btn-icon {
+  margin-right: 0.5rem;
+  display: inline-flex;
+}

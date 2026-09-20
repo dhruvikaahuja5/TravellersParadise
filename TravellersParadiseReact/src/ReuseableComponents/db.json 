@@ -1,0 +1,214 @@
+[
+  {
+    "title": "10 Days in Kyoto & Arashiyama Backstreets: Cartographic Field Dispatch",
+    "slug": "kyoto-arashiyama-backstreets-cartographic-field-dispatch",
+    "author": {
+      "name": "Elena Rostova",
+      "role": "Verified Explorer"
+    },
+    "location": {
+      "city": "Kyoto",
+      "country": "Japan",
+      "region": "Arashiyama",
+      "coordinates": {
+        "lat": 35.0167,
+        "lng": 135.7683
+      }
+    },
+    "tags": ["#Kyoto", "#Japan", "#Arashiyama", "#FieldGuide", "#Backstreets"],
+    "status": "published",
+    "summary": "A practical 10-day field guide to Kyoto’s backstreets, temple lanes, hidden gardens, and food routes without the usual tourist clutter.",
+    "factReliability": 98,
+    "fieldEntry": 482,
+    "postedAt": "2026-09-18T09:00:00.000Z",
+    "coverImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528164344705-47542687000d",
+      "https://images.unsplash.com/photo-1503899036084-c55cdd92da26",
+      "https://images.unsplash.com/photo-1526481280695-3c4691d2f9a0"
+    ],
+    "rating": {
+      "score": 9.6,
+      "label": "Fact reliability",
+      "metrics": {
+        "accuracy": 9.8,
+        "practicality": 9.5,
+        "timeliness": 9.6
+      }
+    },
+    "meta": {
+      "duration": "10 days",
+      "elevation": "54m",
+      "routeType": "Footpath & Local Rail",
+      "difficulty": "Easy to Moderate"
+    },
+    "contentSections": [
+      {
+        "heading": "Why Arashiyama still matters",
+        "body": "The real value in Arashiyama is not the obvious photo spots. It is in the quiet side lanes, hidden tea houses, and the way the bamboo grove shifts over the course of dawn, noon, and rain. This field dispatch focuses on the routes less crowded by day-trippers and more shaped by locals."
+      },
+      {
+        "heading": "What to do",
+        "body": "Start with early morning entry, walk the side lanes before the buses arrive, buy official tickets from approved portals, and spend afternoons in small neighborhood shops instead of large tourist storefronts."
+      }
+    ],
+    "directives": {
+      "dos": [
+        "Buy official garden and temple tickets early morning through official government portals.",
+        "Respect private access lanes and local photography restrictions.",
+        "Walk the smaller streets near the river and local residential blocks before the midday crowd expands."
+      ],
+      "donts": [
+        "Do not consume takeout food while walking narrow residential corridors.",
+        "Do not touch earthen plaster or old wooden walls in heritage lanes.",
+        "Do not assume every scenic lane is public access; some are private or restricted."
+      ]
+    },
+    "highlights": [
+      "Zero-tourist bamboo routes before 8am",
+      "Temple entry windows with fewer crowds",
+      "Local neighborhood food routes without the tourist traps"
+    ]
+  },
+  {
+    "title": "Iceland Winter Ring Road: Ice Caves & Safety Truths",
+    "slug": "iceland-winter-ring-road-ice-caves-safety-truths",
+    "author": {
+      "name": "Marcus Chen",
+      "role": "Senior Cartographer"
+    },
+    "location": {
+      "city": "Vatnajökull",
+      "country": "Iceland",
+      "region": "South-East Iceland",
+      "coordinates": {
+        "lat": 64.4,
+        "lng": -16.8
+      }
+    },
+    "tags": ["#Iceland", "#Vatnajokull", "#WinterRoadTrip", "#IceCaves", "#Safety"],
+    "status": "published",
+    "summary": "Winter driving across Iceland’s ring road requires realistic expectations, proper equipment, and honest caution around glacier ice caves and unstable roads.",
+    "factReliability": 99,
+    "fieldEntry": 1109,
+    "postedAt": "2026-09-18T10:00:00.000Z",
+    "coverImage": "https://images.unsplash.com/photo-1517821362943-7d0d60a4d8f2",
+    "gallery": [
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+      "https://images.unsplash.com/photo-1473448912268-2022ce9509d8",
+      "https://images.unsplash.com/photo-1516483638261-f4dbaf036963"
+    ],
+    "rating": {
+      "score": 9.7,
+      "label": "Consensus matrix verified",
+      "metrics": {
+        "accuracy": 9.8,
+        "practicality": 9.6,
+        "timeliness": 9.7
+      }
+    },
+    "meta": {
+      "duration": "7-10 days",
+      "conditions": "Black ice and compacted slush",
+      "warningLevel": "Grade 4 wind alert",
+      "routeType": "Winter ring road"
+    },
+    "contentSections": [
+      {
+        "heading": "The main truth",
+        "body": "Iceland is stunning, but winter conditions can change within hours. The route is not the problem — the real issue is how conditions and temporary closures affect safety, timing, and access to the caves."
+      },
+      {
+        "heading": "Safety by reality, not myth",
+        "body": "Do not enter ice caves without official guides and verified equipment. Road conditions can deteriorate fast, and visibility can vanish even when the weather appears manageable."
+      }
+    ],
+    "directives": {
+      "dos": [
+        "Monitor weather and road conditions daily with official Icelandic transport and weather services.",
+        "Travel with proper winter tires, emergency supplies, and a real safety plan.",
+        "Book glacier cave tours with certified operators only."
+      ],
+      "donts": [
+        "Do not drive the ring road on assumptions or social-media optimism.",
+        "Do not enter unmarked ice caves or walk on glacier edges without guidance.",
+        "Do not expect cell service or easy rescue access in remote stretches."
+      ]
+    },
+    "highlights": [
+      "Verified cave access only through official guides",
+      "Road conditions can change within hours",
+      "Safety depends on realistic winter planning"
+    ]
+  },
+  {
+    "title": "Oaxaca Food & Artisan Trails without the Tourist Traps",
+    "slug": "oaxaca-food-artisan-trails-without-tourist-traps",
+    "author": {
+      "name": "Sofia Alvarez",
+      "role": "Cultural Field Reporter"
+    },
+    "location": {
+      "city": "Oaxaca",
+      "country": "Mexico",
+      "region": "Central Valleys",
+      "coordinates": {
+        "lat": 17.0594,
+        "lng": -96.7216
+      }
+    },
+    "tags": ["#Oaxaca", "#Mexico", "#FoodTrail", "#ArtisanRoute", "#LocalCulture"],
+    "status": "published",
+    "summary": "A grounded field route through Oaxaca’s food markets, artisan neighborhoods, and street-level cultural flows without the usual tourist bottlenecks.",
+    "factReliability": 95,
+    "fieldEntry": 932,
+    "postedAt": "2026-09-18T11:00:00.000Z",
+    "coverImage": "https://images.unsplash.com/photo-1544025162-d76694265947",
+    "gallery": [
+      "https://images.unsplash.com/photo-1555244162-803834f70033",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de"
+    ],
+    "rating": {
+      "score": 9.4,
+      "label": "Field-reviewed",
+      "metrics": {
+        "accuracy": 9.5,
+        "practicality": 9.3,
+        "timeliness": 9.4
+      }
+    },
+    "meta": {
+      "duration": "5-7 days",
+      "focus": "Food, markets, artisan workshops",
+      "routeType": "Neighborhood walking trail"
+    },
+    "contentSections": [
+      {
+        "heading": "The local route",
+        "body": "The strongest Oaxaca experiences happen in neighborhood markets and workshops, not in the central tourist corridors. It is better to move slowly through local food streets, artisan houses, and small family-run kitchens."
+      },
+      {
+        "heading": "Where to go",
+        "body": "Start in the side markets, then move into weaving and pottery workshops tucked into residential blocks. The best moments often come from conversation, not signage."
+      }
+    ],
+    "directives": {
+      "dos": [
+        "Visit side markets early and check local schedules before noon.",
+        "Ask before photographing workshops or artisan families.",
+        "Support small workshops that still produce by hand and sell directly."
+      ],
+      "donts": [
+        "Do not rely on the busiest tourist tables for the most authentic flavors.",
+        "Do not buy from shops that overpromise handmade products without provenance.",
+        "Do not treat local neighborhoods like a performance stage; respect the pace and privacy of residents."
+      ]
+    },
+    "highlights": [
+      "Food markets without the tourist labyrinth",
+      "Artisan trails through living neighborhoods",
+      "Direct local sourcing and deeper cultural context"
+    ]
+  }
+]
